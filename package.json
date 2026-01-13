@@ -5,7 +5,7 @@
     "dependencies": {
         "react": "^16.9.0",
         "react-dom": "^16.9.0",
-        "react-scripts": "3.1.1",
+        "react-scripts": "5.0.1",
         "semantic-ui-react": "^0.88.0",
         "styled-components": "^4.3.2"
     },
@@ -32,8 +32,8 @@
         ]
     },
     "devDependencies": {
-        "babel-plugin-macros": "^2.6.1",
-        "eslint": "^6.2.2",
+        "babel-plugin-macros": "^2.8.0",
+        "eslint": "^9.39.1",
         "eslint-plugin-react": "^7.14.3"
     }
 }
